@@ -1,2 +1,2 @@
 # hello-world
-my 1th python
+my name is Ehsan
